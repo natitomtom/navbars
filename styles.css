@@ -1,0 +1,37 @@
+*{
+        text-decoration: none;
+.navbar{
+    background-color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: cener;
+    justify-content: space-between;
+    
+}
+.logo a{
+    color: white;
+    font-size: 36px;
+    padding: 15px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 19px;
+    font: bold;
+}
+button{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-top: 15px;
+    border-radius: 23px;
+    color: blueviolet;
+}
